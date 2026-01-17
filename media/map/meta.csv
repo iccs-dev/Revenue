@@ -1,0 +1,453 @@
+Process,Month,FTE Cap,Mandays
+Amazon Merchant,Aug,2,24
+Amazon Merchant,Dec,2,26
+Amazon Merchant,Nov,2,25
+Amazon Merchant,Oct,2,26
+Amazon Merchant,Sep,2,26
+Amazon Merchant,Jan,2,26
+Arka_Fincap,Aug,7,23
+Arka_Fincap,Dec,7,26
+Arka_Fincap,Nov,7,25
+Arka_Fincap,Oct,7,24
+Arka_Fincap,Sep,7,26
+Arka_Fincap,Jan,7,25
+Bajaj_Allianz-L1,Aug,60,25
+Bajaj_Allianz-L1,Dec,60,26
+Bajaj_Allianz-L1,Nov,60,26
+Bajaj_Allianz-L1,Oct,60,24
+Bajaj_Allianz-L1,Sep,60,26
+Bajaj_Allianz-L1,Jan,60,26
+Bajaj_Allianz-L2,Aug,12,25
+Bajaj_Allianz-L2,Dec,12,26
+Bajaj_Allianz-L2,Nov,12,26
+Bajaj_Allianz-L2,Oct,12,24
+Bajaj_Allianz-L2,Sep,12,26
+Bajaj_Allianz-L2,Jan,12,26
+Bajaj_Allianz-Noida,Aug,72,25
+Bajaj_Allianz-Noida,Dec,72,26
+Bajaj_Allianz-Noida,Nov,72,26
+Bajaj_Allianz-Noida,Oct,72,24
+Bajaj_Allianz-Noida,Sep,72,26
+Bajaj_Allianz-Noida,Jan,72,26
+Bajaj_Capital,Aug,30,24
+Bajaj_Capital,Dec,30,25
+Bajaj_Capital,Nov,30,25
+Bajaj_Capital,Oct,30,23
+Bajaj_Capital,Sep,30,25
+Bajaj_Capital,Jan,30,25
+Balmer_Lawrie,Dec,5,24
+Balmer_Lawrie,Nov,5,25
+Balmer_Lawrie,Oct,5,24
+Balmer_Lawrie,Sep,5,25
+Balmer_Lawrie,Jan,5,24
+BharatPe,Aug,36,24
+BharatPe,Dec,36,25
+BharatPe,Nov,36,25
+BharatPe,Oct,36,23
+BharatPe,Sep,36,25
+BharatPe,Jan,36,26
+BSES-Noida,Aug,25,31
+BSES-Noida,Dec,25,31
+BSES-Noida,Nov,25,30
+BSES-Noida,Oct,25,31
+BSES-Noida,Sep,25,30
+BSES-Noida,Jan,25,30
+CESC,Aug,12,31
+CESC,Dec,12,31
+CESC,Nov,12,30
+CESC,Oct,12,31
+CESC,Sep,12,30
+CESC,Jan,12,31
+CESC_Jaipur,Aug,37,31
+CESC_Jaipur,Dec,37,31
+CESC_Jaipur,Nov,37,30
+CESC_Jaipur,Oct,37,31
+CESC_Jaipur,Sep,37,30
+CESC_Jaipur,Jan,37,26
+DATIK,Aug,4,26
+DATIK,Dec,4,26
+DATIK,Nov,4,26
+DATIK,Oct,4,26
+DATIK,Sep,4,26
+DATIK,Jan,4,26
+DIC,Aug,23,31
+DIC,Dec,23,31
+DIC,Nov,23,30
+DIC,Oct,23,31
+DIC,Sep,23,30
+DIC,Jan,23,31
+Dish_IB-Chennai,Aug,5,25
+Dish_IB-Chennai,Dec,5,25
+Dish_IB-Chennai,Nov,5,25
+Dish_IB-Chennai,Oct,5,25
+Dish_IB-Chennai,Sep,5,25
+Dish_IB-Chennai,Jan,5,25
+DISH_IB-HYD,Aug,18,25
+DISH_IB-HYD,Dec,18,25
+DISH_IB-HYD,Nov,18,25
+DISH_IB-HYD,Oct,18,25
+DISH_IB-HYD,Sep,18,25
+DISH_IB-HYD,Jan,18,25
+Dish_TV-Backend,Aug,18,25
+Dish_TV-Backend,Dec,18,25
+Dish_TV-Backend,Nov,18,25
+Dish_TV-Backend,Oct,18,25
+Dish_TV-Backend,Sep,18,25
+Dish_TV-Backend,Jan,18,25
+DMI,Aug,10,25
+DMI,Dec,10,25
+DMI,Nov,10,25
+DMI,Oct,10,24
+DMI,Sep,10,25
+DMI,Jan,10,25
+E Saras,Aug,2,26
+E Saras,Dec,2,26
+E Saras,Nov,2,26
+E Saras,Oct,2,26
+E Saras,Sep,2,26
+E Saras,Jan,2,26
+EDCIL,Aug,9,25
+EDCIL,Dec,9,26
+EDCIL,Nov,9,25
+EDCIL,Oct,9,25
+EDCIL,Sep,9,25
+EDCIL,Jan,9,26
+Edelweiss,Aug,39,25
+Edelweiss,Dec,39,27
+Edelweiss,Nov,39,26
+Edelweiss,Oct,39,25
+Edelweiss,Sep,39,26
+Edelweiss,Jan,39,25
+GO_NOISE,Aug,55,24
+GO_NOISE,Dec,55,25
+GO_NOISE,Nov,55,25
+GO_NOISE,Oct,55,24
+GO_NOISE,Sep,55,25
+GO_NOISE,Jan,55,24
+GOQII,Aug,6,24
+GOQII,Dec,6,27
+GOQII,Nov,6,25
+GOQII,Oct,6,25
+GOQII,Sep,6,26
+GOQII,Jan,6,22
+GS-1,Aug,10,24
+GS-1,Dec,10,25
+GS-1,Nov,10,25
+GS-1,Oct,10,23
+GS-1,Sep,10,25
+GS-1,Jan,10,25
+HDFC_Persistency,Aug,30,23
+HDFC_Persistency,Dec,30,26
+HDFC_Persistency,Nov,30,25
+HDFC_Persistency,Oct,30,25
+HDFC_Persistency,Sep,30,26
+HDFC_Persistency,Jan,30,25
+ICAI,Aug,71,24
+ICAI,Dec,71,26
+ICAI,Nov,71,25
+ICAI,Oct,71,25
+ICAI,Sep,71,25
+ICAI,Jan,71,25
+ICAI-HYD,Aug,11,24
+ICAI-HYD,Dec,11,26
+ICAI-HYD,Nov,11,25
+ICAI-HYD,Oct,11,25
+ICAI-HYD,Sep,11,25
+ICAI-HYD,Jan,11,25
+IDFC_CROSS_SALE,Aug,100,23
+IDFC_CROSS_SALE,Dec,200,26
+IDFC_CROSS_SALE,Nov,100,25
+IDFC_CROSS_SALE,Oct,100,25
+IDFC_CROSS_SALE,Sep,100,26
+IDFC_CROSS_SALE,Jan,200,25
+IDFC_DIGI_SALE,Aug,15,23
+IDFC_DIGI_SALE,Dec,15,26
+IDFC_DIGI_SALE,Nov,15,25
+IDFC_DIGI_SALE,Oct,15,25
+IDFC_DIGI_SALE,Sep,15,26
+IDFC_DIGI_SALE,Jan,15,25
+IDFC-NOIDA,Aug,10,24
+IDFC-NOIDA,Dec,10,26
+IDFC-NOIDA,Nov,10,25
+IDFC-NOIDA,Oct,10,25
+IDFC-NOIDA,Sep,10,26
+IDFC-NOIDA,Jan,10,25
+Imagine,Aug,26,25
+Imagine,Dec,26,26
+Imagine,Nov,26,26
+Imagine,Oct,26,26
+Imagine,Sep,26,26
+Imagine,Jan,26,23
+IRDAI,Aug,20,25
+IRDAI,Dec,20,26
+IRDAI,Nov,20,25
+IRDAI,Oct,20,25
+IRDAI,Sep,20,26
+IRDAI,Jan,20,25
+Jindal Steel LTD,Aug,4,24
+Jindal Steel LTD,Dec,4,26
+Jindal Steel LTD,Nov,4,25
+Jindal Steel LTD,Oct,4,24
+Jindal Steel LTD,Sep,4,25
+Jindal Steel LTD,Jan,4,24
+JIO_INSURE,Aug,40,23
+JIO_INSURE,Dec,40,25
+JIO_INSURE,Nov,40,25
+JIO_INSURE,Oct,40,25
+JIO_INSURE,Sep,40,26
+JIO_INSURE,Jan,40,25
+JVVNL,Aug,350,31
+JVVNL,Dec,350,31
+JVVNL,Nov,350,30
+JVVNL,Oct,350,31
+JVVNL,Sep,350,30
+JVVNL,Jan,350,26
+KPN,Aug,37,24
+KPN,Dec,37,24
+KPN,Nov,37,24
+KPN,Oct,37,24
+KPN,Sep,37,24
+KPN,Jan,37,24
+L&T Services-Mumbai,Aug,40,23
+L&T Services-Mumbai,Dec,40,26
+L&T Services-Mumbai,Nov,40,24
+L&T Services-Mumbai,Oct,40,24
+L&T Services-Mumbai,Sep,40,24
+L&T Services-Mumbai,Jan,40,24
+L&T SME,Aug,7,23
+L&T SME,Dec,7,24
+L&T SME,Nov,7,24
+L&T SME,Oct,7,24
+L&T SME,Sep,7,24
+L&T SME,Jan,7,24
+Max_Life-SDPL COE,Aug,40,23
+Max_Life-SDPL COE,Dec,40,24
+Max_Life-SDPL COE,Nov,40,24
+Max_Life-SDPL COE,Oct,40,22
+Max_Life-SDPL COE,Sep,40,24
+Max_Life-SDPL COE,Jan,40,24
+Max_Life-SDPL,Aug,62,23
+Max_Life-SDPL,Dec,62,24
+Max_Life-SDPL,Nov,62,24
+Max_Life-SDPL,Oct,62,22
+Max_Life-SDPL,Sep,62,24
+Max_Life-SDPL,Jan,62,24
+Mitsubishi,Aug,20,25
+Mitsubishi,Dec,20,26
+Mitsubishi,Nov,20,26
+Mitsubishi,Oct,20,24
+Mitsubishi,Sep,20,26
+Mitsubishi,Jan,20,26
+MOT,Aug,79,26
+MOT,Dec,79,26
+MOT,Nov,79,26
+MOT,Oct,79,26
+MOT,Sep,79,26
+MOT,Jan,79,26
+Mpokket,Aug,261,26
+Mpokket,Dec,261,26
+Mpokket,Nov,261,26
+Mpokket,Oct,261,26
+Mpokket,Sep,261,26
+Mpokket,Jan,261,26
+Muthoot,Aug,60,24
+Muthoot,Dec,60,24
+Muthoot,Nov,60,24
+Muthoot,Oct,60,24
+Muthoot,Sep,60,24
+Muthoot,Jan,60,24
+Muthoot_Finance,Aug,296,24
+Muthoot_Finance,Dec,296,24
+Muthoot_Finance,Nov,296,24
+Muthoot_Finance,Oct,296,24
+Muthoot_Finance,Sep,296,24
+Muthoot_Finance,Jan,296,24
+Namma yatri-Bengaluru,Aug,9,24
+Namma yatri-Bengaluru,Dec,9,24
+Namma yatri-Bengaluru,Nov,9,24
+Namma yatri-Bengaluru,Oct,9,24
+Namma yatri-Bengaluru,Sep,9,24
+Namma yatri-Bengaluru,Jan,9,24
+Namma_Yatri,Aug,7,24
+Namma_Yatri,Dec,7,24
+Namma_Yatri,Nov,7,24
+Namma_Yatri,Oct,7,24
+Namma_Yatri,Sep,7,24
+Namma_Yatri,Jan,7,24
+NetMeds,Aug,18,26
+NetMeds,Dec,18,26
+NetMeds,Nov,18,26
+NetMeds,Oct,18,26
+NetMeds,Sep,18,26
+NetMeds,Jan,18,26
+NHDC,Aug,12,25
+NHDC,Dec,12,26
+NHDC,Nov,12,26
+NHDC,Oct,12,26
+NHDC,Sep,12,26
+NHDC,Jan,12,25
+NPS,Dec,5,26
+NPS,Nov,5,25
+NPS,Jan,5,25
+Paytm_Bank_Mysore,Aug,29,26
+Paytm_Bank_Mysore,Dec,29,26
+Paytm_Bank_Mysore,Nov,29,26
+Paytm_Bank_Mysore,Oct,29,26
+Paytm_Bank_Mysore,Sep,29,26
+Paytm_Bank_Mysore,Jan,29,26
+Paytm_Bank_Noida,Aug,19,26
+Paytm_Bank_Noida,Dec,19,26
+Paytm_Bank_Noida,Nov,19,26
+Paytm_Bank_Noida,Oct,19,26
+Paytm_Bank_Noida,Sep,19,26
+Paytm_Bank_Noida,Jan,19,26
+Poshan_Helpline,Aug,93,24
+Poshan_Helpline,Dec,93,26
+Poshan_Helpline,Nov,93,24
+Poshan_Helpline,Oct,93,25
+Poshan_Helpline,Sep,93,25
+Poshan_Helpline,Jan,93,25
+Poshan_Helpline-Hyd,Aug,32,24
+Poshan_Helpline-Hyd,Dec,32,26
+Poshan_Helpline-Hyd,Nov,32,24
+Poshan_Helpline-Hyd,Oct,32,25
+Poshan_Helpline-Hyd,Sep,32,25
+Poshan_Helpline-Hyd,Jan,32,25
+Protean-Mumbai,Aug,1,23
+Protean-Mumbai,Dec,1,26
+Protean-Mumbai,Nov,1,25
+Protean-Mumbai,Oct,1,24
+Protean-Mumbai,Sep,1,26
+Protean-Mumbai,Jan,1,24
+PSPCL,Aug,75,31
+PSPCL,Dec,75,31
+PSPCL,Nov,75,30
+PSPCL,Oct,75,31
+PSPCL,Sep,75,30
+PSPCL,Jan,75,26
+PVVNL,Aug,216,31
+PVVNL,Dec,216,31
+PVVNL,Nov,216,30
+PVVNL,Oct,216,31
+PVVNL,Sep,216,30
+PVVNL,Jan,216,30
+Qurex,Aug,6,31
+Qurex,Dec,6,31
+Qurex,Nov,6,30
+Qurex,Oct,6,31
+Qurex,Sep,6,30
+Qurex,Jan,6,26
+RBI,Aug,54,25
+RBI,Dec,54,25
+RBI,Nov,54,25
+RBI,Oct,54,25
+RBI,Sep,54,26
+RBI,Jan,54,26
+S_C_JOHNSON,Aug,2,24
+S_C_JOHNSON,Dec,2,26
+S_C_JOHNSON,Nov,2,24
+S_C_JOHNSON,Oct,2,22
+S_C_JOHNSON,Sep,2,25
+S_C_JOHNSON,Jan,2,25
+TN CM,Aug,140,31
+TN CM,Dec,140,31
+TN CM,Nov,140,30
+TN CM,Oct,140,31
+TN CM,Sep,140,30
+TN CM,Jan,140,25
+TPDDL,Aug,74,25
+TPDDL,Dec,74,26
+TPDDL,Nov,74,26
+TPDDL,Oct,74,25
+TPDDL,Sep,74,26
+TPDDL,Jan,74,26
+Unicef,Aug,27,24
+Unicef,Dec,27,25
+Unicef,Nov,27,24
+Unicef,Oct,27,25
+Unicef,Sep,27,25
+Unicef,Jan,27,26
+Upbhokta,Aug,226,31
+Upbhokta,Dec,226,31
+Upbhokta,Nov,226,30
+Upbhokta,Oct,226,31
+Upbhokta,Sep,226,30
+Upbhokta,Jan,226,31
+VD2H_IB-Chennai,Aug,28,25
+VD2H_IB-Chennai,Dec,28,25
+VD2H_IB-Chennai,Nov,28,25
+VD2H_IB-Chennai,Oct,28,25
+VD2H_IB-Chennai,Sep,28,25
+VD2H_IB-Chennai,Jan,28,25
+VD2H-HYD,Aug,28,25
+VD2H-HYD,Dec,28,25
+VD2H-HYD,Nov,28,25
+VD2H-HYD,Oct,28,25
+VD2H-HYD,Sep,28,25
+VD2H-HYD,Jan,28,25
+YES_BANK,Aug,150,23
+YES_BANK,Dec,150,25
+YES_BANK,Nov,150,25
+YES_BANK,Oct,150,24
+YES_BANK,Sep,150,26
+YES_BANK,Jan,150,25
+ZET,Aug,40,25
+ZET,Dec,43,25
+ZET,Nov,40,25
+ZET,Oct,40,25
+ZET,Sep,40,25
+ZET,Jan,43,25
+VKYC,Aug,10,25
+VKYC,Dec,15,25
+VKYC,Nov,10,25
+VKYC,Oct,10,24
+VKYC,Sep,10,25
+VKYC,Jan,15,25
+DataKart Trace,Aug,4,24
+DataKart Trace,Dec,4,25
+DataKart Trace,Nov,4,25
+DataKart Trace,Oct,4,23
+DataKart Trace,Sep,4,25
+DataKart Trace,Jan,4,25
+Rlife,Aug,65,24
+Rlife,Dec,65,27
+Rlife,Nov,65,24
+Rlife,Oct,65,25
+Rlife,Sep,65,26
+Rlife,Jan,65,26
+Think Gas,Aug,30,31
+Think Gas,Dec,30,31
+Think Gas,Nov,30,30
+Think Gas,Oct,30,31
+Think Gas,Sep,30,30
+Think Gas,Jan,30,31
+Naaptol,Aug,101,31
+Naaptol,Dec,101,31
+Naaptol,Nov,101,30
+Naaptol,Oct,101,31
+Naaptol,Sep,101,30
+Naaptol,Jan,101,31
+I-PRU Noida,Aug,93,24
+I-PRU Noida,Dec,93,24
+I-PRU Noida,Nov,93,24
+I-PRU Noida,Oct,93,23
+I-PRU Noida,Sep,93,25
+I-PRU Noida,Jan,93,24
+I-PRU Protection,Aug,98,24
+I-PRU Protection,Dec,98,24
+I-PRU Protection,Nov,98,24
+I-PRU Protection,Oct,98,23
+I-PRU Protection,Sep,98,25
+I-PRU Protection,Jan,98,24
+UGVCL,Aug,17,31
+UGVCL,Dec,34,26
+UGVCL,Nov,17,30
+UGVCL,Oct,17,31
+UGVCL,Sep,17,30
+UGVCL,Jan,17,31
+I-PRU Mumbai,Aug,88,23
+I-PRU Mumbai,Dec,88,24
+I-PRU Mumbai,Nov,88,25
+I-PRU Mumbai,Oct,88,24
+I-PRU Mumbai,Sep,88,25
+I-PRU Mumbai,Jan,88,24
