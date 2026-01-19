@@ -1,7 +1,8 @@
 Process,Location,Cluster Head,Billable,Cost1,ExtraBilling
 Amazon Merchant,Hyderabad,Ram Prasad,480,37000,[]
 Arka_Fincap,Mumbai,Harshad Patil,480,36000,"[{""count"":1,""cost"":36000}]"
-Bajaj_Allianz-Noida,Noida,Ajay Kalra,480,35175$39000,[]
+Bajaj_Allianz-Noida,Noida,Ajay Kalra,480,35175,[]
+Bajaj_Allianz-Noida,Noida,Ajay Kalra,480,39000,[]
 Bajaj_Capital,Noida,Ajay Kalra,480,33300,[]
 Balmer_Lawrie,Chennai,Vijay B,480,38500,[]
 BharatPe,Noida,Gaurav Kukreja,480,26300,[]
@@ -9,17 +10,21 @@ BSES-Noida,Noida,Lucky Kapur,480,23500,[]
 CESC,Kolkata,Lucky Kapur,480,27500,[]
 CESC_Jaipur,Jaipur,Lucky Kapur,480,12247,"[{""count"":7,""cost"":18000},{""count"":1,""cost"":30000},{""count"":3,""cost"":11420}]"
 DATIK,Noida,Rohit Singh,480,76133.125,[]
-DIC,Noida,Lucky Kapur,480,29448,"[{""count"":5,""cost"":30591}]"
+DIC,Noida,Lucky Kapur,480,34701,"[{""count"":5,""cost"":34701}]"
 Dish_IB-Chennai,Chennai,Vijay B,480,22750,[]
 DISH_IB-HYD,Hyderabad,Ram Prasad,480,21500,[]
 Dish_TV-Backend,Noida,Rohit Singh,480,26000,[]
-DMI,Noida,Ajay Kalra,480,30000$32500,"[{""count"":2,""cost"":35000}]"
+DMI,Noida,Ajay Kalra,480,30000,"[{""count"":2,""cost"":32500},{""count"":2,""cost"":35000}]"
+DMI,Noida,Ajay Kalra,480,32500,[]
 E Saras,Noida,Lucky Kapur,480,23100,"[{""count"":1,""cost"":25300}]"
 EDCIL,Noida,Lucky Kapur,480,36328,"[{""count"":3,""cost"":29952}]"
 Edelweiss,Hyderabad,Ram Prasad,480,28000,"[{""count"":2,""cost"":25500},{""count"":1,""cost"":25000}]"
 GO_NOISE,Noida,Gaurav Kukreja,480,30000,[]
 GOQII,Mumbai,Harshad Patil,480,32550,"[{""count"":1,""cost"":32550}]"
-GS-1,Noida,Mayank Srivastav,480,36900$42500,"[{""count"":1,""cost"":33000}]"
+GS-1,Noida,Mayank Srivastav,480,35000,"[{""count"":1,""cost"":33000}]"
+GS-1,Noida,Mayank Srivastav,480,42500,[]
+GS-1,Noida,Mayank Srivastav,480,33000,[]
+GS-1,Noida,Mayank Srivastav,480,42000,[]
 HDFC_Persistency,Mumbai,Harshad Patil,480,31973,[]
 ICAI,Noida,Lucky Kapur,480,23750,"[{""count"":2,""cost"":29000}]"
 ICAI-HYD,Hyderabad,Ram Prasad,480,23750,"[{""count"":1,""cost"":29000}]"
@@ -35,7 +40,8 @@ KPN,Bengaluru,Chandrachooda Bhat,480,31500,"[{""count"":4,""cost"":31500}]"
 KPN_Fresh_CC,Bengaluru,Chandrachooda Bhat,480,31500,"[{""count"":4,""cost"":31500}]"
 L&T Services-Mumbai,Mumbai,Harshad Patil,480,36000,"[{""count"":4,""cost"":18000}]"
 L&T SME,Bengaluru,Harshad Patil,480,36000,[]
-Max_Life-SDPL,Noida,Mayank Srivastav,480,30540$43000,[]
+Max_Life-SDPL,Noida,Mayank Srivastav,480,30540,[]
+Max_Life-SDPL,Noida,Mayank Srivastav,480,43000,[]
 Mitsubishi,Noida,Rohit Singh,480,29000,"[{""count"":1,""cost"":29000}]"
 MOT,Noida,Lucky Kapur,480,49750,[]
 Mpokket,Noida,Gaurav Kukreja,480,27000,[]
@@ -59,27 +65,10 @@ Qurex,Noida,Rohit Singh,480,15000,"[{""count"":1,""cost"":29000},{""count"":6,""
 RBI,Chandigarh,Lucky Kapur,480,24603,"[{""count"":6,""cost"":26221},{""count"":3,""cost"":23977},{""count"":1,""cost"":57637}]"
 S_C_JOHNSON,Noida,Lucky Kapur,480,33000,[]
 TN CM,Chennai,Vijay B,480,21185,[]
-TPDDL,Noida,Lucky Kapur,480,31204.76,[]
+TPDDL,Noida,Lucky Kapur,480,30296,[]
 Unicef,Noida,Rohit Singh,480,39500,"[{""count"":1,""cost"":39500}]"
 Upbhokta,Jaipur,Lucky Kapur,480,13996,[]
 VD2H_IB-Chennai,Chennai,Vijay B,480,22750,[]
 VD2H-HYD,Hyderabad,Ram Prasad,480,21500,[]
 YES_BANK,Mumbai,Harshad Patil,480,33700,[]
 ZET,Noida,Gaurav Kukreja,480,31500,"[{""count"":1,""cost"":31500}]"
-Rlife,Mumbai,Harshad Patil,480,38367.52,[]
-Naaptol,Hyderabad,Ram Prasad,480,13118,"[{""count"":2,""cost"":44500},{""count"":1,""cost"":19200},{""count"":1,""cost"":28000},{""count"":5,""cost"":25849},{""count"":1,""cost"":24640},{""count"":65,""cost"":1900},{""count"":65,""cost"":7400}]"
-Think Gas,Chennai,Lucky Kapur,480,25500,"[{""count"":30,""cost"":2900}]"
-UGVCL,Gujarat,Lucky Kapur,480,17925,"[{""count"":1,""cost"":21861}]"
-I_Pru_Saving,Noida,Rohit Singh,480,33700,"[{""count"":2,""cost"":65000},{""count"":1,""cost"":28000},{""count"":4,""cost"":35000}]"
-I_Pru_Saving_RM,Noida,Rohit Singh,480,33700,"[{""count"":2,""cost"":65000},{""count"":1,""cost"":28000},{""count"":4,""cost"":35000}]"
-I-PRU Noida,Noida,Rohit Singh,480,33700,"[{""count"":2,""cost"":65000},{""count"":1,""cost"":28000},{""count"":4,""cost"":35000}]"
-I-PRU Protection,Noida,Rohit Singh,480,33700,"[{""count"":3,""cost"":65000},{""count"":3,""cost"":35000}]"
-I_Pru_Protection,Noida,Rohit Singh,480,33700,"[{""count"":3,""cost"":65000},{""count"":3,""cost"":35000}]"
-I_Pru_Protection_RM,Noida,Rohit Singh,480,33700,"[{""count"":3,""cost"":65000},{""count"":3,""cost"":35000}]"
-I-PRU Mumbai,Mumbai,Harshad Patil,480,33700,"[{""count"":2,""cost"":15000},{""count"":1,""cost"":28000},{""count"":2,""cost"":65000},{""count"":4,""cost"":35000}]"
-I-PRU_Mumbai_APR,Mumbai,Harshad Patil,480,33700,"[{""count"":2,""cost"":15000},{""count"":1,""cost"":28000},{""count"":2,""cost"":65000},{""count"":4,""cost"":35000}]"
-Nayara_Mumbai,Mumbai,Harshad Patil,480,40300$33155,"[{""count"":1,""cost"":29688},{""count"":2,""cost"":36086}]"
-Bajaj Finserve,Hyderabad,Ram Prasad,,5650,[]
-Unicef Infra,Noida,Rohit Singh,,11750,[]
-SBI_Card,Noida,Ajay Kalra,480,28750,[]
-SBI_Banglore,Bengaluru,Chandrachooda Bhat,480,28750,[]
