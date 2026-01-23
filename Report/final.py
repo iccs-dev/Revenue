@@ -99,6 +99,7 @@ zet_processes = ["ZET_Inbound", "ZET_Inbound_Partner", "ZET_Outbound"]
 mpokket_processes = ["Mpokket_Onboarding_SE", "Mpokket_Onboarding_ST"]
 saving_processes = ["I_Pru_Saving", "I_Pru_Saving_RM"]
 protection_processes = ["I_Pru_Protection", "I_Pru_Protection_RM"]
+dish_vd2h_processes = ["D2H_and_Dish_44_-_Server", "D2H_and_Dish_25_-_Server"]
 ipru_processes = ["I-PRU_Mumbai_APR"]
 
 # --- Create a copy to avoid side effects ---
@@ -125,6 +126,9 @@ df.loc[df["Process"].isin(protection_processes), "Process"] = "I-PRU Protection"
 # --- Normalize I_Pru_Mumbai ---
 df.loc[df["Process"].isin(ipru_processes), "Process"] = "I-PRU Mumbai"
 
+# --- Normalize Dish TV OB and VD2H OB ---
+df.loc[df["Process"].isin(dish_vd2h_processes), "Process"] = "Dish TV OB and VD2H OB"
+
 
 # --- Aggregate minutes by EmpCode + Date + Process ---
 final_df = (
@@ -132,7 +136,7 @@ final_df = (
       .sum()
 )
 
-print("✅ Go_Noise, ZET, KPN, I_Pru_Saving, I_Pru_Protection and Mpokket processes merged successfully")
+print("✅ Go_Noise, ZET, KPN, I_Pru_Saving, I_Pru_Protection,  I-PRU Noida, I-PRU Mumbai, Dish TV OB and VD2H OB and Mpokket processes merged successfully")
 
 # ============================================================
 # STEP: MAP PROCESS PER EMPCODE FROM proc.csv
